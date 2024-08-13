@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadi Karim Munif</h1>
-<h3 align="center">I graduated from East West University with BSC in Computer Science Engineering. I love programming. I know C, C++, Java, Python, HTML, CSS, JavaScript, and SQL. I like to build different kinds of Android apps. I also have experience in data science, machine learning, and image processing.</h3>
+<h3 align="center">I am a Software Developer currently working at <a href="https://www.zabai.no/" target="_blank" rel="noreferrer">Zabai</a>. I graduated from East West University with BSC in Computer Science Engineering. I love programming. I know C, C++, Java, Python, HTML, CSS, JavaScript, and SQL. I like to build different kinds of Android apps. I also have experience in data science, machine learning, and image processing.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
