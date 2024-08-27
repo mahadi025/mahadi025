@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadi Karim Munif</h1>
-<h3 align="center">A software developer from Bangladesh. Currently working for Zabai</h3>
+<h3 align="center">I am a software developer from Bangladesh. Currently working for Zabai</h3>
 
 - 👨‍💻 All of my projects are available at [https://mahadi025.github.io/](https://mahadi025.github.io/)
 
